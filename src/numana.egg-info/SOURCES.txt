@@ -1,0 +1,10 @@
+setup.py
+src/numana/__init__.py
+src/numana/main.py
+src/numana/rootsolvers.py
+src/numana.egg-info/PKG-INFO
+src/numana.egg-info/SOURCES.txt
+src/numana.egg-info/dependency_links.txt
+src/numana.egg-info/entry_points.txt
+src/numana.egg-info/requires.txt
+src/numana.egg-info/top_level.txt

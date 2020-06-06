@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: numana
+Version: 0.1.0
+Summary: A library that consists of a loose collection of utilities I made for NUMANA class
+Home-page: UNKNOWN
+Author: MassiveAtoms
+Author-email: s.ramsaransing.w@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6,<4.0

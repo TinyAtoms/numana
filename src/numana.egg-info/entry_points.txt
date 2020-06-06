@@ -1,0 +1,3 @@
+[console_scripts]
+numana = numana.main:main
+
